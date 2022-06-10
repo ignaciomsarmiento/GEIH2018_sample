@@ -263,3 +263,6 @@ po/*~
 *.vrb
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,r,jupyternotebooks
+geih.md
+geih_homog.dta
+print_pages.R
